@@ -1,0 +1,43 @@
+section{
+    border: 3px solid black;
+    height:500px;
+    width:500px;
+    position: relative;
+    margin-left: 400px;
+    background: linear-gradient(75.7deg, rgb(6, 48, 231) 3.8%, rgb(26, 78, 33) 87.1%);
+
+}
+
+.child{
+    border: 3px solid black;
+    height:60px;
+    width:60px;
+    position: absolute;
+    background: linear-gradient(75.7deg, rgb(16, 150, 38) 3.8%, rgb(6, 7, 22) 87.1%);
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.child1{
+top:0%;
+left:0%;
+}
+.child2{
+    top:0%;
+    right:0%;
+}
+.child3{
+    top:45%;
+    left: 45%;
+}
+.child4{
+    bottom: 0%;
+    left:0%;
+}
+.child5{
+    bottom: 0%;
+    right: 0%;
+}

@@ -1,0 +1,20 @@
+.test{
+    color: red;
+    word-spacing:10px;
+    
+}
+#abc::after{
+    color: rgb(12, 141, 255);
+    letter-spacing: 10px;
+    content:"@";
+}
+.test::first-letter{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#abc:hover{
+    font-size: 50px;
+    color:red;
+}
+

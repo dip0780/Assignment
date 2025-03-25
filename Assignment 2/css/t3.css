@@ -1,0 +1,17 @@
+.abc{
+    border: 3px solid black;
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 400px;
+    width: 600px;
+    background: linear-gradient(75.7deg, rgb(55, 137, 230) 3.8%, rgb(73, 230, 94) 87.1%);
+
+}
+p{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#as{
+    margin-top: 70px;
+}

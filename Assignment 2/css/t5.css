@@ -1,0 +1,22 @@
+.p{
+    border: 1px solid black;
+    color:white;
+    height:30px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.as{
+    background: linear-gradient(75.7deg, rgb(5, 15, 24) 3.8%, rgb(41, 53, 221) 87.1%);
+}
+
+.we{
+    background: linear-gradient(75.7deg, rgb(3, 9, 15) 3.8%, rgb(26, 78, 33) 87.1%);
+
+}
+.a{
+    border: 1px solid black;
+    width: fit-content;
+    display:block-inline;
+    color: aliceblue;
+}
